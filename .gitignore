@@ -6,3 +6,4 @@ npm-debug.log*
 backend/logs/
 backend/uploads/*
 !backend/uploads/.gitkeep
+/Yasmin_Abdulrahman_Portfolio/
