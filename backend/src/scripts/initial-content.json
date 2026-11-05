@@ -1,0 +1,231 @@
+{
+  "profile": {
+    "fullName": "ياسمين عبدالرحمن هرين",
+    "jobTitle": "خريجة تقنية معلومات",
+    "headline": "خريجة تقنية معلومات ، مهتمة بالبرمجة وتطوير التطبيقات وقواعد البيانات، وأسعى إلى تنمية مهاراتي من خلال المشاريع التقنية واكتساب خبرة عملية.",
+    "summary": "خريجة بكالوريوس تقنية المعلومات، لدي معرفة بأساسيات البرمجة وتطوير المواقع والتطبيقات وقواعد البيانات وتصميم واجهات المستخدم، بالإضافة إلى مهارات استخدام الحاسب الآلي والبرامج المكتبية. عملت على مجموعة من المشاريع التقنية الشخصية والأكاديمية لتطبيق معارفي وتطوير مهاراتي العملية، وأسعى للحصول على فرصة عمل في مجال تقنية المعلومات أو تطوير الويب، أتمكن من خلالها من توظيف مهاراتي واكتساب الخبرة العملية والمساهمة في تطوير بيئة العمل.",
+    "address": "حضرموت – الديس",
+    "phone": "778266259",
+    "email": "yasminabulrahman10@gmail.com",
+    "nationality": "يمنية",
+    "languages": "العربية والإنجليزية",
+    "profileImage": "/images/profile.jpg",
+    "cvFile": "/files/Yasmin_CV.pdf",
+    "socialLinks": {}
+  },
+  "projects": [
+    {
+      "title": "ABC Kids | منصة تعليم اللغة الإنجليزية للأطفال",
+      "slug": "project-1",
+      "description": "منصة تعليمية تفاعلية لتنظيم وعرض محتوى تعلم الحروف والكلمات الإنجليزية للأطفال، وتتضمن دروس الحروف والمهارات التعليمية والاختبارات.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "category": "مشروع",
+      "status": "completed",
+      "image": "images/project1.jpeg",
+      "displayOrder": 0,
+      "isPublished": true
+    },
+    {
+      "title": "HIGH CAR | موقع زينة السيارات",
+      "slug": "project-2",
+      "description": "موقع إلكتروني لعرض خدمات ومنتجات زينة السيارات والإكسسوارات وتنظيم معلومات الخدمات بطريقة واضحة للزوار.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "category": "مشروع",
+      "status": "completed",
+      "image": "images/project2.jpeg",
+      "displayOrder": 1,
+      "isPublished": true
+    },
+    {
+      "title": "موقع التسوق الإلكتروني",
+      "slug": "project-3",
+      "description": "موقع إلكتروني لعرض المنتجات وتنظيم تجربة التسوق الإلكتروني من خلال واجهات مرتبة لعرض المنتجات.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "category": "مشروع",
+      "status": "completed",
+      "image": "images/project3.jpeg",
+      "displayOrder": 2,
+      "isPublished": true
+    },
+    {
+      "title": "DIA Digital Journal | اليوميات الرقمية",
+      "slug": "project-4",
+      "description": "تطبيق لتدوين اليوميات وتنظيم الملاحظات الشخصية وتصنيفها وإدارتها.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "SQL Server"
+      ],
+      "category": "مشروع",
+      "status": "in_progress",
+      "image": "images/5.jpeg",
+      "displayOrder": 3,
+      "isPublished": true
+    },
+    {
+      "title": "My Projects Manager | نظام إدارة المشاريع الشخصية",
+      "slug": "project-5",
+      "description": "نظام يهدف إلى تنظيم المشاريع والمهام وإدارة المعلومات والأشخاص المرتبطين بها، مع لوحة لإدارة المشاريع والفرق والمهام.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "ASP.NET Core",
+        "C#",
+        "SQL Server"
+      ],
+      "category": "مشروع",
+      "status": "in_progress",
+      "image": "images/604749056234051630.jpeg",
+      "displayOrder": 4,
+      "isPublished": true
+    }
+  ],
+  "experiences": [
+    {
+      "jobTitle": "موظفة خدمة عملاء",
+      "company": "المعهد الدولي الحديث – الشرج",
+      "period": "2025 – 2026",
+      "description": "استقبال العملاء والرد على الاستفسارات.؛ متابعة التسجيلات وتنظيم المواعيد.؛ استخدام الحاسب الآلي في الأعمال الإدارية وتحسين تجربة العملاء.",
+      "displayOrder": 0,
+      "isPublished": true
+    },
+    {
+      "jobTitle": "منسقة هدايا",
+      "company": "برنت العمودي – الشرج",
+      "period": "2024",
+      "description": "تنسيق وتجهيز الهدايا وتغليف الطلبات.؛ استقبال العملاء ومساعدتهم في اختيار المنتجات.",
+      "displayOrder": 1,
+      "isPublished": true
+    },
+    {
+      "jobTitle": "مساعدة طبيبة أسنان",
+      "company": "عيادة أسنان – الشرج",
+      "period": "2021",
+      "description": "تجهيز الأدوات الطبية ومساعدة الطبيبة أثناء الإجراءات العلاجية.؛ استقبال المرضى وتنظيم المواعيد والالتزام بمعايير النظافة والتعقيم.",
+      "displayOrder": 2,
+      "isPublished": true
+    }
+  ],
+  "education": [
+    {
+      "degree": "بكالوريوس تقنية المعلومات",
+      "institution": "جامعة حضرموت",
+      "period": "2025",
+      "description": "دراسة أساسيات تقنية المعلومات والبرمجة وتطوير الأنظمة وقواعد البيانات.",
+      "displayOrder": 0,
+      "isPublished": true
+    },
+    {
+      "degree": "تطبيق إدارة فائض الطعام في المطاعم",
+      "institution": "",
+      "period": "مشروع التخرج",
+      "description": "تطبيق يهدف إلى الاستفادة من فائض الطعام في المطاعم وربط المطاعم بالمستفيدين. يشمل عرض الوجبات المتاحة وتفاصيلها وأسعارها، وإدارة حسابات المستخدمين والمطاعم، وتحديد مواقع المطاعم، وتنظيم بيانات المطاعم والوجبات، واستقبال الطلبات خلال الفترة من الساعة 11 مساءً حتى الساعة 7 صباحًا.",
+      "displayOrder": 1,
+      "isPublished": true
+    }
+  ],
+  "skills": [
+    {
+      "name": "تطوير واجهات الويب",
+      "category": "HTML5، CSS3، JavaScript — مستوى مبتدئ.",
+      "level": 0,
+      "displayOrder": 0,
+      "isPublished": true
+    },
+    {
+      "name": "قواعد البيانات",
+      "category": "أساسيات MySQL وMicrosoft SQL Server.",
+      "level": 0,
+      "displayOrder": 1,
+      "isPublished": true
+    },
+    {
+      "name": "لغات البرمجة",
+      "category": "معرفة أساسية بلغة C#.",
+      "level": 0,
+      "displayOrder": 2,
+      "isPublished": true
+    },
+    {
+      "name": "تطبيقات الجوال",
+      "category": "Flutter — معرفة أساسية.",
+      "level": 0,
+      "displayOrder": 3,
+      "isPublished": true
+    },
+    {
+      "name": "تصميم واجهات المستخدم",
+      "category": "أساسيات UI/UX وتجربة المستخدم.",
+      "level": 0,
+      "displayOrder": 4,
+      "isPublished": true
+    },
+    {
+      "name": "التصميم الجرافيكي",
+      "category": "Adobe Photoshop وAdobe Illustrator.",
+      "level": 0,
+      "displayOrder": 5,
+      "isPublished": true
+    },
+    {
+      "name": "أدوات الذكاء الاصطناعي",
+      "category": "الاستعانة بها للمساعدة في كتابة الأكواد وتحسينها.",
+      "level": 0,
+      "displayOrder": 6,
+      "isPublished": true
+    },
+    {
+      "name": "تطبيقات المكتب",
+      "category": "Microsoft Word، Excel، PowerPoint.",
+      "level": 0,
+      "displayOrder": 7,
+      "isPublished": true
+    }
+  ],
+  "certificates": [
+    {
+      "title": "أساسيات التصميم الجرافيكي",
+      "issuer": "Adobe Photoshop وAdobe Illustrator — شركة شخص لينس، 2023.",
+      "issueDate": "",
+      "displayOrder": 0,
+      "isPublished": true
+    },
+    {
+      "title": "السكرتارية الإدارية",
+      "issuer": "مركز كايزن، 2021.",
+      "issueDate": "",
+      "displayOrder": 1,
+      "isPublished": true
+    },
+    {
+      "title": "مهارات الحاسب الآلي",
+      "issuer": "Microsoft Word وExcel وPowerPoint.",
+      "issueDate": "",
+      "displayOrder": 2,
+      "isPublished": true
+    },
+    {
+      "title": "اللغة الإنجليزية ومهارات التواصل",
+      "issuer": "المعهد الدولي الحديث، 2020.",
+      "issueDate": "",
+      "displayOrder": 3,
+      "isPublished": true
+    }
+  ]
+}
